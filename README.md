@@ -41,18 +41,6 @@ The goal of this repository is to:
 * Experiment with practical implementations
 * Build a strong foundation for advanced NLP and Generative AI
 
-## 📂 Repository Structure
-
-```text
-NLP_Learning/
-│
-├── notebooks/
-├── notes/
-├── implementations/
-├── datasets/
-└── README.md
-```
-
 ## 🚀 Learning Approach
 
 I focus on understanding the concepts first and then applying them through small experiments and implementations.
